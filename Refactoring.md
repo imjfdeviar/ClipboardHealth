@@ -26,4 +26,4 @@ Target File: `deterministicPartitionKey`
 
 ## How to improve
 
-- Find the documentatio
+- Find the documentation of CryptoJS to compare hash in unit testing

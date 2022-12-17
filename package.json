@@ -1,0 +1,19 @@
+{
+  "name": "cbh-take-home-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": " ",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "jest": "^28.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}

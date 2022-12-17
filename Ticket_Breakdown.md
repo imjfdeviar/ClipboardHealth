@@ -18,8 +18,8 @@ You will be graded on the level of detail in each ticket, the clarity of the exe
 ## [Breakdown Here](https://github.com/users/imjfdeviar/projects/1/views/1)
 
 ### Assumptions
-- Every Agent works for in a single Facility (related to `Task 1`)
-- Function `getShiftsByFacility` return specific data from Agent (related to `Task 2`)
+- Every Agent works for in a single Facility (related to [Task 1](https://github.com/imjfdeviar/ClipboardHealth/issues/1)))
+- Function `getShiftsByFacility` return specific data from Agent (related to [Task 2](https://github.com/imjfdeviar/ClipboardHealth/issues/2))
 
 Initial JSON structure example:
 
@@ -34,5 +34,8 @@ Initial JSON structure example:
 }
 ]
 `
+
+- There are some functions to verify PDF field in the tests (related to [Task 3](https://github.com/imjfdeviar/ClipboardHealth/issues/3))
+- Exists a repository with the documentation (related to [Task 4](https://github.com/imjfdeviar/ClipboardHealth/issues/4))
 
 Link to [project tasks](https://github.com/users/imjfdeviar/projects/1/views/1)

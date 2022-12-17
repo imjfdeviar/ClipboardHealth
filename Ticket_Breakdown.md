@@ -17,4 +17,22 @@ You will be graded on the level of detail in each ticket, the clarity of the exe
 
 ## [Breakdown Here](https://github.com/users/imjfdeviar/projects/1/views/1)
 
+### Assumptions
+- Every Agent works for in a single Facility (related to `Task 1`)
+- Function `getShiftsByFacility` return specific data from Agent (related to `Task 2`)
+
+Initial JSON structure example:
+
+`
+[
+{
+"id": 123,
+"name": "Example Shift",
+"Agent": {
+"name": "Example agent"
+}
+}
+]
+`
+
 Link to [project tasks](https://github.com/users/imjfdeviar/projects/1/views/1)
